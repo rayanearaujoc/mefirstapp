@@ -1,0 +1,7 @@
+config/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.json
+*.png
